@@ -11,7 +11,7 @@
 export default {};
 </script>
 <style>
-.panel-body {
+.card-body {
   font-family: "Arizonia", cursive;
   font-size: 24px;
   color: #6e6e66;
