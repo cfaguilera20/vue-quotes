@@ -15,6 +15,7 @@ export default {};
   font-family: "Arizonia", cursive;
   font-size: 24px;
   color: #6e6e66;
+  min-height: 125px;
 }
 .quote {
   cursor: pointer;
